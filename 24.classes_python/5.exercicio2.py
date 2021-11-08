@@ -1,0 +1,1 @@
+# 2. Crie uma sub classe a partir da classe criada no exercício 1.
