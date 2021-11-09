@@ -1,0 +1,1 @@
+# 18. startswith() -> Retorna um booleano se a string começar com determinado valor.

@@ -1,0 +1,1 @@
+# 4. Conte a quantidade de linhas que aparece na string.

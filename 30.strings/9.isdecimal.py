@@ -1,0 +1,1 @@
+# 8. isdecimal() -> Retorna um booleano dizendo se todos os caracteres são decimais.

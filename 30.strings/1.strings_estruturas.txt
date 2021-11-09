@@ -1,0 +1,29 @@
+Strings
+
+Strings é uma das estruturas com mais métodos disponíveis, devido a sua abrangência e 
+complexidade.
+
+Vamos ver aqui uma lista com os principais métodos e ver exemplos de alguns deles:
+
+capitalize() -> Converte a primeira letra para maiúsculo.
+casefold() -> Converte a string para minúsculo.
+center() -> Retorna a string como centro e preenche com espaços o restante do tamanho.
+count() -> Retorna o tamanho da palavra.
+encode() -> Retorna a string codificada.
+endswith() -> Retorna um booleano se o final da string corresponder ao valor específicado.
+find() ->Procura um determinado valor e retorna a posição dele caso encontrado.
+isdecimal() -> Retorna um booleano dizendo se todos os caracteres são decimais.
+isdigit() -> Retorna um booleano dizendo se todos os caracteres são dígitos.
+islower() -> Retorna um booleano caso todos os caracteres sejam minúsculos
+isnumeric() -> Retorna um booleano caso todos os caracteres sejam numéricos.
+isupper() -> Retorna um booleano caso todos os caracteres sejam maiúsculos.
+join() -> Junta dois elementos de um iterável em uma string.
+lower() -> Converte a string para minúsculo.
+replace() -> Altera determinado valor de uma string por outro.
+split() -> Divide a string por algum determinado separador.
+splitlines() -> Separa a string por linhas.
+startswith() -> Retorna um booleano se a string começar com determinado valor.
+strip() -> Retorna a string recortada por determinado valor.
+upper() -> Converte a string em letras maiúsculas
+
+Esses são os 20 métodos mais utilizados, entretando existe mais de 40 métodos que podem ser consultados na documentação do python.

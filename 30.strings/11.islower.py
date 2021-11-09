@@ -1,0 +1,1 @@
+# islower() -> Retorna um booleano caso todos os caracteres sejam minúsculo
