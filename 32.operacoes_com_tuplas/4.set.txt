@@ -1,0 +1,20 @@
+Set é uma estrutura que não vimos ainda, mas é para muitos cenários bem útil, esse objeto tem sintaxe de dicionário, mas não permite valores duplicados, são imutáveis e não possuem enereço para os valores dentro dele.
+
+Os métodos que ele possui são os seguintes:
+1. add() -> Adiciona um elemento.
+2. clear() -> Remove todos os elementos.
+3. copy() -> Retorna uma cópia.
+4. difference() -> Retorna a diferença entre 2 ou mais sets.
+5. difference_update() -> Remove os itens desse set que já está contido em algum outro.
+6. discard() -> Remove algum item específico.
+7. intersection() -> Retorna um set que é a intersecção entre outros dois sets.
+8. intersection_update() -> Remove os items desse set que não estão especificados em outro set.
+9. isdisjoint() -> Retorna se os sets tem uma intersecção ou não.
+10. issubset() -> Retorna se outro set contém esse set ou não.
+11. issuperset() -> Retorna se esse set contém outro set ou não
+12. pop() -> Remove um elemento desse set.
+13. remove() -> Remove um elemento especificado.
+14. symmetric_difference() -> Retorna um set com a diferença simétrica entre os dois sets.
+15. symmetric_difference_update() -> insere as diferenças simétricas entre esse set e outro.
+16. union() -> Retorna um set contendo a união dos sets.
+17. update() -> Atualiza o set com a união dele com outro set.
