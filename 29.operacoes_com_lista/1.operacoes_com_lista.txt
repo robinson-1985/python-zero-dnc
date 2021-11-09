@@ -1,0 +1,14 @@
+Operações com Listas
+Abaixo tem as operações que temos prontas para utilizar com listas:
+
+Append() -> Adiciona um elemento no final da lista.
+Clear() -> Remove todos os itens da lista.
+Copy() -> Faz uma cópia da lista.
+Count() -> Retorna a quantidade de elementos da lista.
+Extend() -> Adiciona elementos iteráveis no final da lista.
+Index() -> Retorna o endereço do elemento da lista.
+Insert() -> Insere um elemento na lista com o endereço específicado.
+Pop() -> Remove um elemento do endereço especifícado.
+Remove() -> Remove o primeiro elemento encontrado pelo valor específicado.
+Reverse() -> Inverte a ordem da lista.
+Sort() -> Ordena a lista por algum chave especificada.
