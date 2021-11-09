@@ -1,0 +1,15 @@
+Dicionários
+
+Dicionários como já vimos, armazena valores em pares de chave:valor. É muito utilizado com dados semi-estruturados e para trabalhar com arquivos JSON
+
+clear() -> Limpa todos os elementos do dicionário.
+copy() -> Retorna uma cópia do dicionário.
+fromkeys(x,y) -> Retorna um dicionário com as chaves e opcionalmente pode já atribuir os valores.
+get() -> Retorna o valor da chave especificada.
+items() -> Retorna uma tupla contendo a chave e valor de cada elemento.
+keys() -> Retorna todas as chaves existentes no dicionário.
+pop() -> Remove o elemento com a chave especificada.
+popitem() -> Remove o último elemento com chave:valor.
+setdefault() -> Retorna o valor da chave específicada. Caso não exista, insere a chave com o específicado valor.
+update() -> Atualiza o dicionário com a chave:valor especificados.
+values() -> Retorna todos os valores dentro do dicionário.
