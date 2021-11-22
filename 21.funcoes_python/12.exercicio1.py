@@ -7,5 +7,4 @@ def cadastro():
     nome = input()
     return cpf, nome
 
-usuario = cadastro()
-print(usuario)
+print(cadastro())

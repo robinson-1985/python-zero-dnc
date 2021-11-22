@@ -1,4 +1,5 @@
 # 4. Faça a tabuada feita em aula começando do número 9.
-num = 9
-for b in range(0, 11):
-    print(num,' x ',b,' = ', num*b)
+
+for a in range(9, 0, -1):
+    for b in range(11):
+        print(a,' x ',b,' = ', a*b)

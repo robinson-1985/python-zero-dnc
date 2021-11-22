@@ -2,9 +2,5 @@
 
 from functools import reduce
 
-print(reduce(lambda a,b,c,d: a + b + c + d, range(100)))
-
-a = 0
-for t in range(100):
-    a+=t
-print(a)
+r = reduce(lambda x,y: x+y, [5,2,5,7,4,2,6,10,342,54,23,6,7,9,12])
+print(r)
